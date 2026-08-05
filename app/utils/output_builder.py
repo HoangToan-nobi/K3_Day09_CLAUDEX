@@ -66,7 +66,7 @@ def _scope_affected_items_and_sellers(
 #   issue -> (include items, include payments, include sellers)
 EVIDENCE_SCOPE_BY_ISSUE = {
     # Proven by order_status + the payments that must be returned.
-    PRIMARY_ISSUE_CANCELED_ORDER_PAID: (False, True, False),
+    PRIMARY_ISSUE_CANCELED_ORDER_PAID: (True, True, True),
     PRIMARY_ISSUE_UNAVAILABLE_ORDER_PAID: (False, True, False),
     # Proven by the item lines whose shipping_limit_date was missed, and
     # by the seller answering for them.
