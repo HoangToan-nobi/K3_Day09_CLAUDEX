@@ -1,0 +1,4 @@
+seller_id,seller_zip_code_prefix,seller_city,seller_state
+SELLER_A,10000,sao paulo,SP
+SELLER_B,20000,rio de janeiro,RJ
+SELLER_C,30000,belo horizonte,MG

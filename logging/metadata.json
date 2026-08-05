@@ -1,0 +1,19 @@
+{
+  "model": "deterministic-python-rules",
+  "parameter_size": "0",
+  "framework": "Python (pandas + stdlib)",
+  "runtime": "Linux-7.0.0-28-generic-x86_64-with-glibc2.39",
+  "python_version": "3.12.3",
+  "data_files": [
+    "olist_customers_dataset.csv",
+    "olist_order_items_dataset.csv",
+    "olist_order_payments_dataset.csv",
+    "olist_order_reviews_dataset.csv",
+    "olist_orders_dataset.csv",
+    "olist_products_dataset.csv",
+    "olist_sellers_dataset.csv",
+    "product_category_name_translation.csv"
+  ],
+  "data_dir": "/home/toan/Lab_AI_Vinuni/K3_Day09_CLAUDEX/data",
+  "generated_at": "2026-08-05T04:34:03.751772+00:00"
+}

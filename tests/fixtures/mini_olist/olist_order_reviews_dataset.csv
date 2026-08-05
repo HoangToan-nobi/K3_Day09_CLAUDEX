@@ -1,0 +1,2 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+REVIEW_1,ORD_LATE_SELLER,2,,,2018-02-21 00:00:00,2018-02-21 10:00:00

@@ -1,0 +1,15 @@
+order_id,payment_sequential,payment_type,payment_installments,payment_value
+ORD_CANCELED,1,credit_card,1,50.00
+ORD_UNAVAILABLE,1,credit_card,1,80.00
+ORD_LATE_SELLER,1,credit_card,1,168.00
+ORD_LATE_LOGISTICS,1,credit_card,1,120.00
+ORD_SPLIT_PAYMENT,1,credit_card,1,60.00
+ORD_SPLIT_PAYMENT,2,voucher,1,40.00
+ORD_UNSUPPORTED_CLAIM,1,credit_card,1,55.00
+ORD_NULL_TIMESTAMP,1,credit_card,1,45.00
+ORD_EMPTY_ITEMS,1,credit_card,1,0.00
+ORD_TOL_09,1,credit_card,1,100.09
+ORD_TOL_10,1,credit_card,1,100.10
+ORD_TOL_11,1,credit_card,1,100.11
+ORD_EQUAL_ESTIMATE,1,credit_card,1,78.00
+ORD_EQUAL_LIMIT,1,credit_card,1,120.00
